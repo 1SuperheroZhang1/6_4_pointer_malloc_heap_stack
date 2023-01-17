@@ -1,0 +1,3 @@
+D:/CLionProjects/junior/6/6.4_pointer_malloc_heap_stack/cmake-build-debug/CMakeFiles/6_4_pointer_malloc_heap_stack.dir
+D:/CLionProjects/junior/6/6.4_pointer_malloc_heap_stack/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/CLionProjects/junior/6/6.4_pointer_malloc_heap_stack/cmake-build-debug/CMakeFiles/rebuild_cache.dir
